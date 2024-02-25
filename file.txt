@@ -1,2 +1,2 @@
 ghis is file
-y
+yes
